@@ -50,4 +50,4 @@ pyinstaller --noconfirm --onefile --windowed --name "AutoShutdown_Hacker" --hidd
 
 ---
 *PRECAUCIÓN: EL APAGADO DEL SISTEMA ES FINAL. GUARDA TU TRABAJO ANTES DE ACTIVAR.*
-author: Jeanpa
+*Author: Jeanpa*
